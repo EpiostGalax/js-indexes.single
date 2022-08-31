@@ -1,3 +1,3 @@
 mivideo = document.getElementById("mokuton");
-mivideo.src = "https://media.istockphoto.com/videos/closeup-of-hands-of-unrecognizable-businessman-typing-on-laptop-at-video-id1274890914";
+mivideo.src = "istockphoto-1274890914-640_adpp_is.mp4";
 mivideo.start();
